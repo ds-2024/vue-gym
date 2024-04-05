@@ -11,7 +11,7 @@
 }
 
 #head-tag{
-    font-family: "비트로 코어 OTF";
+    font-family: "비트로 코어 TTF";
     font-size: 100px;
     color: #ffffff;
     padding-top: 100px;
@@ -19,7 +19,7 @@
 }
 
 #gym-name{
-    font-family: "비트로 코어 OTF";
+    font-family: "비트로 코어 TTF";
     font-size: 150px;
     color: #ff0066;
     padding: 0px 0px 0px 150px;
@@ -27,7 +27,7 @@
 }
 
 #thisislogin{
-    font-family: "비트로 코어 OTF";
+    font-family: "비트로 코어 TTF";
     font-size: 180px;
     color: #ff0066;
     margin-top: 80px;
@@ -46,7 +46,7 @@
 
 .form-text{
     width: 300px;
-    font-family: "비트로 인스파이어 OTF";
+    font-family: "비트로 인스파이어 TTF";
     font-size: 100px;
     color: #ff0066;
     display:inline-block;
@@ -68,7 +68,7 @@
     border: 8px solid #ff0066;
     border-radius: 30px;
     color: #ff0066;
-    font-family: "비트로 코어 OTF";
+    font-family: "비트로 코어 TTF";
     padding: 15px 30px;
     text-align: center;
     display: inline-block;
@@ -82,7 +82,7 @@
     border: 7px solid #ff0066;
     border-radius: 30px;
     color: #ff0066;
-    font-family: "비트로 인스파이어 OTF";
+    font-family: "비트로 인스파이어 TTF";
     font-size: 80px;
     text-decoration: none;
     display:inline-block;
@@ -114,7 +114,7 @@
     border-radius: 30px;
     background-color: #ffffff;
     margin-left: 190px;
-    font-family: "비트로 인스파이어 OTF";
+    font-family: "비트로 인스파이어 TTF";
     font-size: 100px;
 }
 
@@ -125,12 +125,12 @@
 #l-footer #l-footer-group{
     color: #ff0066;
     font-size: 60px;
-    font-family: "비트로 코어 OTF";
+    font-family: "비트로 코어 TTF";
     font-style: italic;
     margin-left: 150px;
 }
 #l-footer #l-Copyright{
     color: #ff0066;
     font-size: 50px;
-    font-family: "비트로 프라이드 OTF";
+    font-family: "비트로 프라이드 TTF";
 }

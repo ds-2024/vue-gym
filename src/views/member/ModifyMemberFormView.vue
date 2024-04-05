@@ -1,10 +1,13 @@
 <template>
     <div class="memberModifyform">
+        <div id="join-heading">
+            WELCOME
+        </div>
         <h2 class= "mbModifytxt" >회원 정보 수정</h2>
-            <form v-on:submit.prevent="modifyMember" method="put">
+            <form v-on:submit.prevent="modifyMember" method="put" id="memberJoinForm">
                 <div class="id-group">
                     <label class="id" for="id">ID</label>
-                    <span id="id">{{ memberVo.id }}</span>
+                    <span id="id" >{{ memberVo.id }}</span>
                 </div>
 
                 <div class="pw-group">
@@ -32,13 +35,13 @@
             </form>
             <!--//modifyform-->
         
-        <!--<GymFooter /> -->
+        <GymFooter />
         <!-- //footer -->
     </div>
 </template>
 
 <script>
-import "@/assets/css/modifyform.css"
+import "@/assets/css/joinform.css"
 //import GymFooter from '@/components/GymFooter.vue'; 
 import axios from 'axios';
 export default {
